@@ -42,3 +42,8 @@ sudo ./run_benchmarks.sh nvcr.io/nvidia/tensorflow:20.10-tf2-py3 100,130,160,190
 
 When benchmarks are completed the `./results` folder will contain a Markdown file with the results. In the example we will find a file called `3600-GeForce_RTX_3070.md` 
 
+# Colaborating
+
+I've published this script on Kaggle: https://www.kaggle.com/enriquecardona/rtx-3070-power-limit-benchmark/settings
+
+Please feel free to contact me if you want to publish your own results
