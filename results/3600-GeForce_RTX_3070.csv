@@ -1,145 +1,145 @@
 Config,Model,Power Limit,Batches per run,REFERENCE
-syn-replicated-fp16-1gpus-inference | alexnet-768 | 100 | 50 | 9738.37 |
-syn-replicated-fp16-1gpus-inference | inception3-96 | 100 | 50 | 817.767 |
-syn-replicated-fp16-1gpus-inference | inception4-24 | 100 | 50 | 534.9 |
-syn-replicated-fp16-1gpus-inference | resnet152-64 | 100 | 50 | 832.967 |
-syn-replicated-fp16-1gpus-inference | resnet50-96 | 100 | 50 | 2208.97 |
-syn-replicated-fp16-1gpus-inference | vgg16-96 | 100 | 50 | 724.4 |
-syn-replicated-fp16-1gpus | alexnet-768 | 100 | 50 | 3865.85 |
-syn-replicated-fp16-1gpus | inception3-96 | 100 | 50 | 268.167 |
-syn-replicated-fp16-1gpus | inception4-24 | 100 | 50 | 122.7 |
-syn-replicated-fp16-1gpus | resnet152-64 | 100 | 50 | 176.267 |
-syn-replicated-fp16-1gpus | resnet50-96 | 100 | 50 | 523.45 |
-syn-replicated-fp16-1gpus | vgg16-96 | 100 | 50 | 83.9667 |
-syn-replicated-fp32-1gpus-inference | alexnet-384 | 100 | 50 | 6708.28 |
-syn-replicated-fp32-1gpus-inference | inception3-48 | 100 | 50 | 533.5 |
-syn-replicated-fp32-1gpus-inference | inception4-12 | 100 | 50 | 177.383 |
-syn-replicated-fp32-1gpus-inference | resnet152-24 | 100 | 50 | 291.8 |
-syn-replicated-fp32-1gpus-inference | resnet50-48 | 100 | 50 | 771.4 |
-syn-replicated-fp32-1gpus-inference | vgg16-48 | 100 | 50 | 338.233 |
-syn-replicated-fp32-1gpus | alexnet-384 | 100 | 50 | 2550.37 |
-syn-replicated-fp32-1gpus | inception3-48 | 100 | 50 | 136.683 |
-syn-replicated-fp32-1gpus | inception4-12 | 100 | 50 | 44.0667 |
-syn-replicated-fp32-1gpus | resnet152-24 | 100 | 50 | 70.1333 |
-syn-replicated-fp32-1gpus | resnet50-48 | 100 | 50 | 216.733 |
-syn-replicated-fp32-1gpus | vgg16-48 | 100 | 50 | -nan |
-syn-replicated-fp16-1gpus-inference | alexnet-768 | 130 | 50 | 11459.9 |
-syn-replicated-fp16-1gpus-inference | inception3-96 | 130 | 50 | 948.067 |
-syn-replicated-fp16-1gpus-inference | inception4-24 | 130 | 50 | 600.783 |
-syn-replicated-fp16-1gpus-inference | resnet152-64 | 130 | 50 | 927.25 |
-syn-replicated-fp16-1gpus-inference | resnet50-96 | 130 | 50 | 2478.52 |
-syn-replicated-fp16-1gpus-inference | vgg16-96 | 130 | 50 | 843.617 |
-syn-replicated-fp16-1gpus | alexnet-768 | 130 | 50 | 4345.13 |
-syn-replicated-fp16-1gpus | inception3-96 | 130 | 50 | 306.9 |
-syn-replicated-fp16-1gpus | inception4-24 | 130 | 50 | 137.583 |
-syn-replicated-fp16-1gpus | resnet152-64 | 130 | 50 | 196.4 |
-syn-replicated-fp16-1gpus | resnet50-96 | 130 | 50 | 578.25 |
-syn-replicated-fp16-1gpus | vgg16-96 | 130 | 50 | 93.1 |
-syn-replicated-fp32-1gpus-inference | alexnet-384 | 130 | 50 | 9219.45 |
-syn-replicated-fp32-1gpus-inference | inception3-48 | 130 | 50 | 639.033 |
-syn-replicated-fp32-1gpus-inference | inception4-12 | 130 | 50 | 225.85 |
-syn-replicated-fp32-1gpus-inference | resnet152-24 | 130 | 50 | 328.017 |
-syn-replicated-fp32-1gpus-inference | resnet50-48 | 130 | 50 | 973.7 |
-syn-replicated-fp32-1gpus-inference | vgg16-48 | 130 | 50 | 344.617 |
-syn-replicated-fp32-1gpus | alexnet-384 | 130 | 50 | 3208.05 |
-syn-replicated-fp32-1gpus | inception3-48 | 130 | 50 | 172.417 |
-syn-replicated-fp32-1gpus | inception4-12 | 130 | 50 | 52.6833 |
-syn-replicated-fp32-1gpus | resnet152-24 | 130 | 50 | 79.2833 |
-syn-replicated-fp32-1gpus | resnet50-48 | 130 | 50 | 253.583 |
-syn-replicated-fp32-1gpus | vgg16-48 | 130 | 50 | -nan |
-syn-replicated-fp16-1gpus-inference | alexnet-768 | 160 | 50 | 12369.5 |
-syn-replicated-fp16-1gpus-inference | inception3-96 | 160 | 50 | 1027.23 |
-syn-replicated-fp16-1gpus-inference | inception4-24 | 160 | 50 | 636.267 |
-syn-replicated-fp16-1gpus-inference | resnet152-64 | 160 | 50 | 978.45 |
-syn-replicated-fp16-1gpus-inference | resnet50-96 | 160 | 50 | 2584.1 |
-syn-replicated-fp16-1gpus-inference | vgg16-96 | 160 | 50 | 906.467 |
-syn-replicated-fp16-1gpus | alexnet-768 | 160 | 50 | 4590.6 |
-syn-replicated-fp16-1gpus | inception3-96 | 160 | 50 | 325.083 |
-syn-replicated-fp16-1gpus | inception4-24 | 160 | 50 | 143.7 |
-syn-replicated-fp16-1gpus | resnet152-64 | 160 | 50 | 205.067 |
-syn-replicated-fp16-1gpus | resnet50-96 | 160 | 50 | 607.5 |
-syn-replicated-fp16-1gpus | vgg16-96 | 160 | 50 | 103.467 |
-syn-replicated-fp32-1gpus-inference | alexnet-384 | 160 | 50 | 1971.98 |
-syn-replicated-fp32-1gpus-inference | inception3-48 | 160 | 50 | 680.4 |
-syn-replicated-fp32-1gpus-inference | inception4-12 | 160 | 50 | 242.233 |
-syn-replicated-fp32-1gpus-inference | resnet152-24 | 160 | 50 | 349.867 |
-syn-replicated-fp32-1gpus-inference | resnet50-48 | 160 | 50 | 1026.48 |
-syn-replicated-fp32-1gpus-inference | vgg16-48 | 160 | 50 | 647.85 |
-syn-replicated-fp32-1gpus | alexnet-384 | 160 | 50 | 3433.13 |
-syn-replicated-fp32-1gpus | inception3-48 | 160 | 50 | 182.8 |
-syn-replicated-fp32-1gpus | inception4-12 | 160 | 50 | 56.5 |
-syn-replicated-fp32-1gpus | resnet152-24 | 160 | 50 | 82.9833 |
-syn-replicated-fp32-1gpus | resnet50-48 | 160 | 50 | 263.2 |
-syn-replicated-fp32-1gpus | vgg16-48 | 160 | 50 | -nan |
-syn-replicated-fp16-1gpus-inference | alexnet-768 | 190 | 50 | 13079.8 |
-syn-replicated-fp16-1gpus-inference | inception3-96 | 190 | 50 | 1076.37 |
-syn-replicated-fp16-1gpus-inference | inception4-24 | 190 | 50 | 654.133 |
-syn-replicated-fp16-1gpus-inference | resnet152-64 | 190 | 50 | 1009.98 |
-syn-replicated-fp16-1gpus-inference | resnet50-96 | 190 | 50 | 2653.82 |
-syn-replicated-fp16-1gpus-inference | vgg16-96 | 190 | 50 | 943.833 |
-syn-replicated-fp16-1gpus | alexnet-768 | 190 | 50 | 4731.12 |
-syn-replicated-fp16-1gpus | inception3-96 | 190 | 50 | 336.717 |
-syn-replicated-fp16-1gpus | inception4-24 | 190 | 50 | 146.883 |
-syn-replicated-fp16-1gpus | resnet152-64 | 190 | 50 | 209.8 |
-syn-replicated-fp16-1gpus | resnet50-96 | 190 | 50 | 617.35 |
-syn-replicated-fp16-1gpus | vgg16-96 | 190 | 50 | 132.067 |
-syn-replicated-fp32-1gpus-inference | alexnet-384 | 190 | 50 | 10613.8 |
-syn-replicated-fp32-1gpus-inference | inception3-48 | 190 | 50 | 708.267 |
-syn-replicated-fp32-1gpus-inference | inception4-12 | 190 | 50 | 251.617 |
-syn-replicated-fp32-1gpus-inference | resnet152-24 | 190 | 50 | 358.933 |
-syn-replicated-fp32-1gpus-inference | resnet50-48 | 190 | 50 | 1054 |
-syn-replicated-fp32-1gpus-inference | vgg16-48 | 190 | 50 | 685.367 |
-syn-replicated-fp32-1gpus | alexnet-384 | 190 | 50 | 3565.85 |
-syn-replicated-fp32-1gpus | inception3-48 | 190 | 50 | 188.733 |
-syn-replicated-fp32-1gpus | inception4-12 | 190 | 50 | 59.05 |
-syn-replicated-fp32-1gpus | resnet152-24 | 190 | 50 | 84.2167 |
-syn-replicated-fp32-1gpus | resnet50-48 | 190 | 50 | 270.767 |
-syn-replicated-fp32-1gpus | vgg16-48 | 190 | 50 | -nan |
-syn-replicated-fp16-1gpus-inference | alexnet-768 | 220 | 50 | 13500.5 |
-syn-replicated-fp16-1gpus-inference | inception3-96 | 220 | 50 | 1104.47 |
-syn-replicated-fp16-1gpus-inference | inception4-24 | 220 | 50 | 666.15 |
-syn-replicated-fp16-1gpus-inference | resnet152-64 | 220 | 50 | 1009.23 |
-syn-replicated-fp16-1gpus-inference | resnet50-96 | 220 | 50 | 2685.58 |
-syn-replicated-fp16-1gpus-inference | vgg16-96 | 220 | 50 | 964.5 |
-syn-replicated-fp16-1gpus | alexnet-768 | 220 | 50 | 4824.48 |
-syn-replicated-fp16-1gpus | inception3-96 | 220 | 50 | 341.017 |
-syn-replicated-fp16-1gpus | inception4-24 | 220 | 50 | 146.417 |
-syn-replicated-fp16-1gpus | resnet152-64 | 220 | 50 | 210.517 |
-syn-replicated-fp16-1gpus | resnet50-96 | 220 | 50 | 628.75 |
-syn-replicated-fp16-1gpus | vgg16-96 | 220 | 50 | 162.583 |
-syn-replicated-fp32-1gpus-inference | alexnet-384 | 220 | 50 | 11095.3 |
-syn-replicated-fp32-1gpus-inference | inception3-48 | 220 | 50 | 726.733 |
-syn-replicated-fp32-1gpus-inference | inception4-12 | 220 | 50 | 262.7 |
-syn-replicated-fp32-1gpus-inference | resnet152-24 | 220 | 50 | 361.3 |
-syn-replicated-fp32-1gpus-inference | resnet50-48 | 220 | 50 | 1077.65 |
-syn-replicated-fp32-1gpus-inference | vgg16-48 | 220 | 50 | 713.467 |
-syn-replicated-fp32-1gpus | alexnet-384 | 220 | 50 | 2671.47 |
-syn-replicated-fp32-1gpus | inception3-48 | 220 | 50 | 192.617 |
-syn-replicated-fp32-1gpus | inception4-12 | 220 | 50 | 60.1 |
-syn-replicated-fp32-1gpus | resnet152-24 | 220 | 50 | 85.6667 |
-syn-replicated-fp32-1gpus | resnet50-48 | 220 | 50 | 272.9 |
-syn-replicated-fp32-1gpus | vgg16-48 | 220 | 50 | -nan |
-syn-replicated-fp16-1gpus-inference | alexnet-768 | 242 | 50 | 13714.1 |
-syn-replicated-fp16-1gpus-inference | inception3-96 | 242 | 50 | 1112.92 |
-syn-replicated-fp16-1gpus-inference | inception4-24 | 242 | 50 | 671.783 |
-syn-replicated-fp16-1gpus-inference | resnet152-64 | 242 | 50 | 1005.03 |
-syn-replicated-fp16-1gpus-inference | resnet50-96 | 242 | 50 | 2679.4 |
-syn-replicated-fp16-1gpus-inference | vgg16-96 | 242 | 50 | 965.367 |
-syn-replicated-fp16-1gpus | alexnet-768 | 242 | 50 | 4860.13 |
-syn-replicated-fp16-1gpus | inception3-96 | 242 | 50 | 342.717 |
-syn-replicated-fp16-1gpus | inception4-24 | 242 | 50 | 147.067 |
-syn-replicated-fp16-1gpus | resnet152-64 | 242 | 50 | 211.183 |
-syn-replicated-fp16-1gpus | resnet50-96 | 242 | 50 | 626.05 |
-syn-replicated-fp16-1gpus | vgg16-96 | 242 | 50 | 186.133 |
-syn-replicated-fp32-1gpus-inference | alexnet-384 | 242 | 50 | 4015.52 |
-syn-replicated-fp32-1gpus-inference | inception3-48 | 242 | 50 | 730.267 |
-syn-replicated-fp32-1gpus-inference | inception4-12 | 242 | 50 | 263.883 |
-syn-replicated-fp32-1gpus-inference | resnet152-24 | 242 | 50 | 364.25 |
-syn-replicated-fp32-1gpus-inference | resnet50-48 | 242 | 50 | 1075.5 |
-syn-replicated-fp32-1gpus-inference | vgg16-48 | 242 | 50 | 724.95 |
-syn-replicated-fp32-1gpus | alexnet-384 | 242 | 50 | 2978.5 |
-syn-replicated-fp32-1gpus | inception3-48 | 242 | 50 | 193.283 |
-syn-replicated-fp32-1gpus | inception4-12 | 242 | 50 | 61 |
-syn-replicated-fp32-1gpus | resnet152-24 | 242 | 50 | 85.6667 |
-syn-replicated-fp32-1gpus | resnet50-48 | 242 | 50 | 274.95 |
-syn-replicated-fp32-1gpus | vgg16-48 | 242 | 50 | -nan |
+syn-replicated-fp16-1gpus-inference , alexnet-768 , 100 , 50 , 9738.37 
+syn-replicated-fp16-1gpus-inference , inception3-96 , 100 , 50 , 817.767 
+syn-replicated-fp16-1gpus-inference , inception4-24 , 100 , 50 , 534.9 
+syn-replicated-fp16-1gpus-inference , resnet152-64 , 100 , 50 , 832.967 
+syn-replicated-fp16-1gpus-inference , resnet50-96 , 100 , 50 , 2208.97 
+syn-replicated-fp16-1gpus-inference , vgg16-96 , 100 , 50 , 724.4 
+syn-replicated-fp16-1gpus , alexnet-768 , 100 , 50 , 3865.85 
+syn-replicated-fp16-1gpus , inception3-96 , 100 , 50 , 268.167 
+syn-replicated-fp16-1gpus , inception4-24 , 100 , 50 , 122.7 
+syn-replicated-fp16-1gpus , resnet152-64 , 100 , 50 , 176.267 
+syn-replicated-fp16-1gpus , resnet50-96 , 100 , 50 , 523.45 
+syn-replicated-fp16-1gpus , vgg16-96 , 100 , 50 , 83.9667 
+syn-replicated-fp32-1gpus-inference , alexnet-384 , 100 , 50 , 6708.28 
+syn-replicated-fp32-1gpus-inference , inception3-48 , 100 , 50 , 533.5 
+syn-replicated-fp32-1gpus-inference , inception4-12 , 100 , 50 , 177.383 
+syn-replicated-fp32-1gpus-inference , resnet152-24 , 100 , 50 , 291.8 
+syn-replicated-fp32-1gpus-inference , resnet50-48 , 100 , 50 , 771.4 
+syn-replicated-fp32-1gpus-inference , vgg16-48 , 100 , 50 , 338.233 
+syn-replicated-fp32-1gpus , alexnet-384 , 100 , 50 , 2550.37 
+syn-replicated-fp32-1gpus , inception3-48 , 100 , 50 , 136.683 
+syn-replicated-fp32-1gpus , inception4-12 , 100 , 50 , 44.0667 
+syn-replicated-fp32-1gpus , resnet152-24 , 100 , 50 , 70.1333 
+syn-replicated-fp32-1gpus , resnet50-48 , 100 , 50 , 216.733 
+syn-replicated-fp32-1gpus , vgg16-48 , 100 , 50 , -nan 
+syn-replicated-fp16-1gpus-inference , alexnet-768 , 130 , 50 , 11459.9 
+syn-replicated-fp16-1gpus-inference , inception3-96 , 130 , 50 , 948.067 
+syn-replicated-fp16-1gpus-inference , inception4-24 , 130 , 50 , 600.783 
+syn-replicated-fp16-1gpus-inference , resnet152-64 , 130 , 50 , 927.25 
+syn-replicated-fp16-1gpus-inference , resnet50-96 , 130 , 50 , 2478.52 
+syn-replicated-fp16-1gpus-inference , vgg16-96 , 130 , 50 , 843.617 
+syn-replicated-fp16-1gpus , alexnet-768 , 130 , 50 , 4345.13 
+syn-replicated-fp16-1gpus , inception3-96 , 130 , 50 , 306.9 
+syn-replicated-fp16-1gpus , inception4-24 , 130 , 50 , 137.583 
+syn-replicated-fp16-1gpus , resnet152-64 , 130 , 50 , 196.4 
+syn-replicated-fp16-1gpus , resnet50-96 , 130 , 50 , 578.25 
+syn-replicated-fp16-1gpus , vgg16-96 , 130 , 50 , 93.1 
+syn-replicated-fp32-1gpus-inference , alexnet-384 , 130 , 50 , 9219.45 
+syn-replicated-fp32-1gpus-inference , inception3-48 , 130 , 50 , 639.033 
+syn-replicated-fp32-1gpus-inference , inception4-12 , 130 , 50 , 225.85 
+syn-replicated-fp32-1gpus-inference , resnet152-24 , 130 , 50 , 328.017 
+syn-replicated-fp32-1gpus-inference , resnet50-48 , 130 , 50 , 973.7 
+syn-replicated-fp32-1gpus-inference , vgg16-48 , 130 , 50 , 344.617 
+syn-replicated-fp32-1gpus , alexnet-384 , 130 , 50 , 3208.05 
+syn-replicated-fp32-1gpus , inception3-48 , 130 , 50 , 172.417 
+syn-replicated-fp32-1gpus , inception4-12 , 130 , 50 , 52.6833 
+syn-replicated-fp32-1gpus , resnet152-24 , 130 , 50 , 79.2833 
+syn-replicated-fp32-1gpus , resnet50-48 , 130 , 50 , 253.583 
+syn-replicated-fp32-1gpus , vgg16-48 , 130 , 50 , -nan 
+syn-replicated-fp16-1gpus-inference , alexnet-768 , 160 , 50 , 12369.5 
+syn-replicated-fp16-1gpus-inference , inception3-96 , 160 , 50 , 1027.23 
+syn-replicated-fp16-1gpus-inference , inception4-24 , 160 , 50 , 636.267 
+syn-replicated-fp16-1gpus-inference , resnet152-64 , 160 , 50 , 978.45 
+syn-replicated-fp16-1gpus-inference , resnet50-96 , 160 , 50 , 2584.1 
+syn-replicated-fp16-1gpus-inference , vgg16-96 , 160 , 50 , 906.467 
+syn-replicated-fp16-1gpus , alexnet-768 , 160 , 50 , 4590.6 
+syn-replicated-fp16-1gpus , inception3-96 , 160 , 50 , 325.083 
+syn-replicated-fp16-1gpus , inception4-24 , 160 , 50 , 143.7 
+syn-replicated-fp16-1gpus , resnet152-64 , 160 , 50 , 205.067 
+syn-replicated-fp16-1gpus , resnet50-96 , 160 , 50 , 607.5 
+syn-replicated-fp16-1gpus , vgg16-96 , 160 , 50 , 103.467 
+syn-replicated-fp32-1gpus-inference , alexnet-384 , 160 , 50 , 1971.98 
+syn-replicated-fp32-1gpus-inference , inception3-48 , 160 , 50 , 680.4 
+syn-replicated-fp32-1gpus-inference , inception4-12 , 160 , 50 , 242.233 
+syn-replicated-fp32-1gpus-inference , resnet152-24 , 160 , 50 , 349.867 
+syn-replicated-fp32-1gpus-inference , resnet50-48 , 160 , 50 , 1026.48 
+syn-replicated-fp32-1gpus-inference , vgg16-48 , 160 , 50 , 647.85 
+syn-replicated-fp32-1gpus , alexnet-384 , 160 , 50 , 3433.13 
+syn-replicated-fp32-1gpus , inception3-48 , 160 , 50 , 182.8 
+syn-replicated-fp32-1gpus , inception4-12 , 160 , 50 , 56.5 
+syn-replicated-fp32-1gpus , resnet152-24 , 160 , 50 , 82.9833 
+syn-replicated-fp32-1gpus , resnet50-48 , 160 , 50 , 263.2 
+syn-replicated-fp32-1gpus , vgg16-48 , 160 , 50 , -nan 
+syn-replicated-fp16-1gpus-inference , alexnet-768 , 190 , 50 , 13079.8 
+syn-replicated-fp16-1gpus-inference , inception3-96 , 190 , 50 , 1076.37 
+syn-replicated-fp16-1gpus-inference , inception4-24 , 190 , 50 , 654.133 
+syn-replicated-fp16-1gpus-inference , resnet152-64 , 190 , 50 , 1009.98 
+syn-replicated-fp16-1gpus-inference , resnet50-96 , 190 , 50 , 2653.82 
+syn-replicated-fp16-1gpus-inference , vgg16-96 , 190 , 50 , 943.833 
+syn-replicated-fp16-1gpus , alexnet-768 , 190 , 50 , 4731.12 
+syn-replicated-fp16-1gpus , inception3-96 , 190 , 50 , 336.717 
+syn-replicated-fp16-1gpus , inception4-24 , 190 , 50 , 146.883 
+syn-replicated-fp16-1gpus , resnet152-64 , 190 , 50 , 209.8 
+syn-replicated-fp16-1gpus , resnet50-96 , 190 , 50 , 617.35 
+syn-replicated-fp16-1gpus , vgg16-96 , 190 , 50 , 132.067 
+syn-replicated-fp32-1gpus-inference , alexnet-384 , 190 , 50 , 10613.8 
+syn-replicated-fp32-1gpus-inference , inception3-48 , 190 , 50 , 708.267 
+syn-replicated-fp32-1gpus-inference , inception4-12 , 190 , 50 , 251.617 
+syn-replicated-fp32-1gpus-inference , resnet152-24 , 190 , 50 , 358.933 
+syn-replicated-fp32-1gpus-inference , resnet50-48 , 190 , 50 , 1054 
+syn-replicated-fp32-1gpus-inference , vgg16-48 , 190 , 50 , 685.367 
+syn-replicated-fp32-1gpus , alexnet-384 , 190 , 50 , 3565.85 
+syn-replicated-fp32-1gpus , inception3-48 , 190 , 50 , 188.733 
+syn-replicated-fp32-1gpus , inception4-12 , 190 , 50 , 59.05 
+syn-replicated-fp32-1gpus , resnet152-24 , 190 , 50 , 84.2167 
+syn-replicated-fp32-1gpus , resnet50-48 , 190 , 50 , 270.767 
+syn-replicated-fp32-1gpus , vgg16-48 , 190 , 50 , -nan 
+syn-replicated-fp16-1gpus-inference , alexnet-768 , 220 , 50 , 13500.5 
+syn-replicated-fp16-1gpus-inference , inception3-96 , 220 , 50 , 1104.47 
+syn-replicated-fp16-1gpus-inference , inception4-24 , 220 , 50 , 666.15 
+syn-replicated-fp16-1gpus-inference , resnet152-64 , 220 , 50 , 1009.23 
+syn-replicated-fp16-1gpus-inference , resnet50-96 , 220 , 50 , 2685.58 
+syn-replicated-fp16-1gpus-inference , vgg16-96 , 220 , 50 , 964.5 
+syn-replicated-fp16-1gpus , alexnet-768 , 220 , 50 , 4824.48 
+syn-replicated-fp16-1gpus , inception3-96 , 220 , 50 , 341.017 
+syn-replicated-fp16-1gpus , inception4-24 , 220 , 50 , 146.417 
+syn-replicated-fp16-1gpus , resnet152-64 , 220 , 50 , 210.517 
+syn-replicated-fp16-1gpus , resnet50-96 , 220 , 50 , 628.75 
+syn-replicated-fp16-1gpus , vgg16-96 , 220 , 50 , 162.583 
+syn-replicated-fp32-1gpus-inference , alexnet-384 , 220 , 50 , 11095.3 
+syn-replicated-fp32-1gpus-inference , inception3-48 , 220 , 50 , 726.733 
+syn-replicated-fp32-1gpus-inference , inception4-12 , 220 , 50 , 262.7 
+syn-replicated-fp32-1gpus-inference , resnet152-24 , 220 , 50 , 361.3 
+syn-replicated-fp32-1gpus-inference , resnet50-48 , 220 , 50 , 1077.65 
+syn-replicated-fp32-1gpus-inference , vgg16-48 , 220 , 50 , 713.467 
+syn-replicated-fp32-1gpus , alexnet-384 , 220 , 50 , 2671.47 
+syn-replicated-fp32-1gpus , inception3-48 , 220 , 50 , 192.617 
+syn-replicated-fp32-1gpus , inception4-12 , 220 , 50 , 60.1 
+syn-replicated-fp32-1gpus , resnet152-24 , 220 , 50 , 85.6667 
+syn-replicated-fp32-1gpus , resnet50-48 , 220 , 50 , 272.9 
+syn-replicated-fp32-1gpus , vgg16-48 , 220 , 50 , -nan 
+syn-replicated-fp16-1gpus-inference , alexnet-768 , 242 , 50 , 13714.1 
+syn-replicated-fp16-1gpus-inference , inception3-96 , 242 , 50 , 1112.92 
+syn-replicated-fp16-1gpus-inference , inception4-24 , 242 , 50 , 671.783 
+syn-replicated-fp16-1gpus-inference , resnet152-64 , 242 , 50 , 1005.03 
+syn-replicated-fp16-1gpus-inference , resnet50-96 , 242 , 50 , 2679.4 
+syn-replicated-fp16-1gpus-inference , vgg16-96 , 242 , 50 , 965.367 
+syn-replicated-fp16-1gpus , alexnet-768 , 242 , 50 , 4860.13 
+syn-replicated-fp16-1gpus , inception3-96 , 242 , 50 , 342.717 
+syn-replicated-fp16-1gpus , inception4-24 , 242 , 50 , 147.067 
+syn-replicated-fp16-1gpus , resnet152-64 , 242 , 50 , 211.183 
+syn-replicated-fp16-1gpus , resnet50-96 , 242 , 50 , 626.05 
+syn-replicated-fp16-1gpus , vgg16-96 , 242 , 50 , 186.133 
+syn-replicated-fp32-1gpus-inference , alexnet-384 , 242 , 50 , 4015.52 
+syn-replicated-fp32-1gpus-inference , inception3-48 , 242 , 50 , 730.267 
+syn-replicated-fp32-1gpus-inference , inception4-12 , 242 , 50 , 263.883 
+syn-replicated-fp32-1gpus-inference , resnet152-24 , 242 , 50 , 364.25 
+syn-replicated-fp32-1gpus-inference , resnet50-48 , 242 , 50 , 1075.5 
+syn-replicated-fp32-1gpus-inference , vgg16-48 , 242 , 50 , 724.95 
+syn-replicated-fp32-1gpus , alexnet-384 , 242 , 50 , 2978.5 
+syn-replicated-fp32-1gpus , inception3-48 , 242 , 50 , 193.283 
+syn-replicated-fp32-1gpus , inception4-12 , 242 , 50 , 61 
+syn-replicated-fp32-1gpus , resnet152-24 , 242 , 50 , 85.6667 
+syn-replicated-fp32-1gpus , resnet50-48 , 242 , 50 , 274.95 
+syn-replicated-fp32-1gpus , vgg16-48 , 242 , 50 , -nan 
