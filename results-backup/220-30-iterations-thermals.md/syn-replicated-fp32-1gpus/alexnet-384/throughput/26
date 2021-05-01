@@ -1,0 +1,121 @@
+2020-11-20 19:28:10.475830: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+WARNING:tensorflow:From /usr/local/lib/python3.6/dist-packages/tensorflow/python/compat/v2_compat.py:96: disable_resource_variables (from tensorflow.python.ops.variable_scope) is deprecated and will be removed in a future version.
+Instructions for updating:
+non-resource variables are not supported in the long term
+2020-11-20 19:28:11.233257: I tensorflow/core/platform/profile_utils/cpu_utils.cc:104] CPU Frequency: 3600140000 Hz
+2020-11-20 19:28:11.233406: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x43c06b0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-11-20 19:28:11.233430: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2020-11-20 19:28:11.235710: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcuda.so.1
+2020-11-20 19:28:11.320036: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:982] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2020-11-20 19:28:11.320443: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x43bed30 initialized for platform CUDA (this does not guarantee that XLA will be used). Devices:
+2020-11-20 19:28:11.320455: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): GeForce RTX 3070, Compute Capability 8.6
+2020-11-20 19:28:11.320565: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:982] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2020-11-20 19:28:11.320912: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1742] Found device 0 with properties:
+pciBusID: 0000:29:00.0 name: GeForce RTX 3070 computeCapability: 8.6
+coreClock: 1.755GHz coreCount: 46 deviceMemorySize: 7.79GiB deviceMemoryBandwidth: 417.29GiB/s
+2020-11-20 19:28:11.320934: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2020-11-20 19:28:11.322383: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcublas.so.11
+2020-11-20 19:28:11.322944: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcufft.so.10
+2020-11-20 19:28:11.323088: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcurand.so.10
+2020-11-20 19:28:11.324628: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcusolver.so.11
+2020-11-20 19:28:11.324988: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcusparse.so.11
+2020-11-20 19:28:11.325079: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudnn.so.8
+2020-11-20 19:28:11.325159: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:982] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2020-11-20 19:28:11.325544: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:982] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2020-11-20 19:28:11.325851: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1884] Adding visible gpu devices: 0
+2020-11-20 19:28:11.325870: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2020-11-20 19:28:11.541809: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1283] Device interconnect StreamExecutor with strength 1 edge matrix:
+2020-11-20 19:28:11.541841: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1289]      0
+2020-11-20 19:28:11.541846: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1302] 0:   N
+2020-11-20 19:28:11.541997: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:982] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2020-11-20 19:28:11.542400: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:982] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2020-11-20 19:28:11.542716: W tensorflow/core/common_runtime/gpu/gpu_bfc_allocator.cc:39] Overriding allow_growth setting because the TF_FORCE_GPU_ALLOW_GROWTH environment variable is set. Original config value was 0.
+2020-11-20 19:28:11.542741: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1428] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 6168 MB memory) -> physical GPU (device: 0, name: GeForce RTX 3070, pci bus id: 0000:29:00.0, compute capability: 8.6)
+TensorFlow:  2.3
+Model:       alexnet
+Dataset:     imagenet (synthetic)
+Mode:        training
+SingleSess:  False
+Batch size:  384 global
+384 per device
+Num batches: 50
+Num epochs:  0.01
+Devices:     ['/gpu:0']
+NUMA bind:   False
+Data format: NCHW
+Optimizer:   sgd
+Variables:   replicated
+AllReduce:   nccl
+==========
+Generating training model
+WARNING:tensorflow:From /bench/lambda-tensorflow-benchmark/benchmarks/scripts/tf_cnn_benchmarks/convnet_builder.py:134: conv2d (from tensorflow.python.keras.legacy_tf_layers.convolutional) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.keras.layers.Conv2D` instead.
+W1120 19:28:11.552497 140642273462080 deprecation.py:323] From /bench/lambda-tensorflow-benchmark/benchmarks/scripts/tf_cnn_benchmarks/convnet_builder.py:134: conv2d (from tensorflow.python.keras.legacy_tf_layers.convolutional) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.keras.layers.Conv2D` instead.
+WARNING:tensorflow:From /usr/local/lib/python3.6/dist-packages/tensorflow/python/keras/legacy_tf_layers/convolutional.py:424: Layer.apply (from tensorflow.python.keras.engine.base_layer_v1) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `layer.__call__` method instead.
+W1120 19:28:11.555891 140642273462080 deprecation.py:323] From /usr/local/lib/python3.6/dist-packages/tensorflow/python/keras/legacy_tf_layers/convolutional.py:424: Layer.apply (from tensorflow.python.keras.engine.base_layer_v1) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `layer.__call__` method instead.
+WARNING:tensorflow:From /bench/lambda-tensorflow-benchmark/benchmarks/scripts/tf_cnn_benchmarks/convnet_builder.py:266: max_pooling2d (from tensorflow.python.keras.legacy_tf_layers.pooling) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.MaxPooling2D instead.
+W1120 19:28:11.564335 140642273462080 deprecation.py:323] From /bench/lambda-tensorflow-benchmark/benchmarks/scripts/tf_cnn_benchmarks/convnet_builder.py:266: max_pooling2d (from tensorflow.python.keras.legacy_tf_layers.pooling) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.MaxPooling2D instead.
+WARNING:tensorflow:From /bench/lambda-tensorflow-benchmark/benchmarks/scripts/tf_cnn_benchmarks/convnet_builder.py:408: dropout (from tensorflow.python.keras.legacy_tf_layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dropout instead.
+W1120 19:28:11.606366 140642273462080 deprecation.py:323] From /bench/lambda-tensorflow-benchmark/benchmarks/scripts/tf_cnn_benchmarks/convnet_builder.py:408: dropout (from tensorflow.python.keras.legacy_tf_layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dropout instead.
+Initializing graph
+WARNING:tensorflow:From /bench/lambda-tensorflow-benchmark/benchmarks/scripts/tf_cnn_benchmarks/benchmark_cnn.py:2268: Supervisor.__init__ (from tensorflow.python.training.supervisor) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please switch to tf.train.MonitoredTrainingSession
+W1120 19:28:11.701958 140642273462080 deprecation.py:323] From /bench/lambda-tensorflow-benchmark/benchmarks/scripts/tf_cnn_benchmarks/benchmark_cnn.py:2268: Supervisor.__init__ (from tensorflow.python.training.supervisor) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please switch to tf.train.MonitoredTrainingSession
+2020-11-20 19:28:11.728788: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:982] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2020-11-20 19:28:11.729154: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1742] Found device 0 with properties:
+pciBusID: 0000:29:00.0 name: GeForce RTX 3070 computeCapability: 8.6
+coreClock: 1.755GHz coreCount: 46 deviceMemorySize: 7.79GiB deviceMemoryBandwidth: 417.29GiB/s
+2020-11-20 19:28:11.729174: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2020-11-20 19:28:11.729186: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcublas.so.11
+2020-11-20 19:28:11.729192: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcufft.so.10
+2020-11-20 19:28:11.729197: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcurand.so.10
+2020-11-20 19:28:11.729203: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcusolver.so.11
+2020-11-20 19:28:11.729209: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcusparse.so.11
+2020-11-20 19:28:11.729214: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudnn.so.8
+2020-11-20 19:28:11.729256: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:982] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2020-11-20 19:28:11.729610: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:982] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2020-11-20 19:28:11.729934: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1884] Adding visible gpu devices: 0
+2020-11-20 19:28:11.729959: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1283] Device interconnect StreamExecutor with strength 1 edge matrix:
+2020-11-20 19:28:11.729963: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1289]      0
+2020-11-20 19:28:11.729967: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1302] 0:   N
+2020-11-20 19:28:11.730034: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:982] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2020-11-20 19:28:11.730387: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:982] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2020-11-20 19:28:11.730720: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1428] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 6168 MB memory) -> physical GPU (device: 0, name: GeForce RTX 3070, pci bus id: 0000:29:00.0, compute capability: 8.6)
+2020-11-20 19:28:11.755346: W tensorflow/compiler/jit/mark_for_compilation_pass.cc:1641] (One-time warning): Not using XLA:CPU for cluster because envvar TF_XLA_FLAGS=--tf_xla_cpu_global_jit was not set.  If you want XLA:CPU, either set that envvar, or use experimental_jit_scope to enable XLA:CPU.  To confirm that XLA is active, pass --vmodule=xla_compilation_cache=1 (as a proper command-line flag, not via TF_XLA_FLAGS) or set the envvar XLA_FLAGS=--xla_hlo_profile.
+INFO:tensorflow:Running local_init_op.
+I1120 19:28:11.766701 140642273462080 session_manager.py:505] Running local_init_op.
+INFO:tensorflow:Done running local_init_op.
+I1120 19:28:11.776646 140642273462080 session_manager.py:508] Done running local_init_op.
+Running warm up
+2020-11-20 19:28:11.854069: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudnn.so.8
+2020-11-20 19:28:12.940894: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcublas.so.11
+2020-11-20 19:28:19.436576: I tensorflow/compiler/jit/xla_compilation_cache.cc:318] Compiled cluster using XLA!  This line is logged at most once for the lifetime of the process.
+Done warm up
+Step	Img/sec	total_loss
+1	images/sec: 3649.4 +/- 0.0 (jitter = 0.0)	9.651 1605900508
+10	images/sec: 3658.3 +/- 2.3 (jitter = 9.8)	9.595 1605900509
+20	images/sec: 3654.3 +/- 1.8 (jitter = 9.5)	9.590 1605900510
+30	images/sec: 3654.5 +/- 1.4 (jitter = 9.5)	9.588 1605900511
+40	images/sec: 3654.1 +/- 1.2 (jitter = 8.1)	9.587 1605900512
+50	images/sec: 3654.1 +/- 1.0 (jitter = 6.8)	9.588 1605900513
+----------------------------------------------------------------
+total images/sec: 3652.22
+----------------------------------------------------------------

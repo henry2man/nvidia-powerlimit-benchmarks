@@ -11,6 +11,6 @@ SUMMARY
 | vgg-vd-19 | 224 x 224 | 548 MB | 63 MB | 20 BFLOPs |
 | alexnet | 227 x 227 | 233 MB | 3 MB | 1.5 BFLOPs |
 
-Config | Model | Power Limit | Batches per run | REFERENCE |
-:------:|:------:|:------:|:------:|:------:|
+Config | Model | Power Limit | Batches per run | Iterations | REFERENCE |
+:------:|:------:|:------:|:------:|:------:|:------:|
 EOF

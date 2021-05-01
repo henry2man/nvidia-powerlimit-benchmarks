@@ -1,0 +1,7 @@
+Memory	15.6461GB
+CPU	5
+GPU 0	GeForce RTX 3070
+CUDA	V11.1.74
+TF	2.3.1
+Kernel	5.4.0-54-generic
+Python	3.6.9

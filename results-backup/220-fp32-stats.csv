@@ -1,0 +1,883 @@
+timestamp, power.draw [W], clocks.current.sm [MHz], clocks.current.memory [MHz], clocks.current.graphics [MHz], clocks_throttle_reasons.gpu_idle, clocks_throttle_reasons.applications_clocks_setting, clocks_throttle_reasons.sw_power_cap, clocks_throttle_reasons.hw_slowdown
+2020/11/21 07:27:20.499, 126.93 W, 1342 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Active, Active
+2020/11/21 07:27:22.503, 71.53 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:27:24.513, 154.24 W, 1725 MHz, 6800 MHz, 1725 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:27:26.517, 154.24 W, 1635 MHz, 6800 MHz, 1635 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:27:28.524, 154.29 W, 1710 MHz, 6800 MHz, 1710 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:27:30.529, 103.06 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:27:32.533, 60.17 W, 2010 MHz, 7000 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:27:34.538, 33.57 W, 210 MHz, 810 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:27:36.569, 24.78 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:27:38.607, 22.05 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:27:40.644, 21.96 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:27:42.680, 46.00 W, 1755 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:27:44.707, 147.98 W, 1860 MHz, 6800 MHz, 1860 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:27:46.712, 149.22 W, 1680 MHz, 6800 MHz, 1680 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:27:48.719, 154.08 W, 1605 MHz, 6800 MHz, 1605 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:27:50.723, 132.94 W, 1785 MHz, 6800 MHz, 1785 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:27:52.726, 148.09 W, 1950 MHz, 6800 MHz, 1950 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:27:54.729, 96.49 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:27:56.733, 153.04 W, 1815 MHz, 6800 MHz, 1815 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:27:58.736, 150.60 W, 1800 MHz, 6800 MHz, 1800 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:28:00.742, 154.24 W, 1650 MHz, 6800 MHz, 1650 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:28:02.746, 154.44 W, 1710 MHz, 6800 MHz, 1710 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:28:04.753, 141.76 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:28:06.757, 59.82 W, 2010 MHz, 7000 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:28:08.762, 33.87 W, 225 MHz, 810 MHz, 225 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:28:10.794, 24.87 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:28:12.831, 22.09 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:28:14.870, 21.88 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:28:16.906, 36.31 W, 1755 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:28:18.933, 115.96 W, 1575 MHz, 6800 MHz, 1575 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:28:20.940, 153.96 W, 1725 MHz, 6800 MHz, 1725 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:28:22.944, 151.13 W, 1665 MHz, 6800 MHz, 1665 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:28:24.948, 141.08 W, 1530 MHz, 6800 MHz, 1530 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:28:26.954, 149.68 W, 1815 MHz, 6800 MHz, 1905 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:28:28.963, 113.15 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:28:30.967, 131.46 W, 1425 MHz, 6800 MHz, 1425 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:28:32.971, 153.79 W, 1560 MHz, 6800 MHz, 1560 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:28:34.975, 153.80 W, 1605 MHz, 6800 MHz, 1605 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:28:36.980, 154.40 W, 1710 MHz, 6800 MHz, 1710 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:28:38.989, 154.77 W, 1680 MHz, 6800 MHz, 1680 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:28:40.995, 60.75 W, 2010 MHz, 7000 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:28:43.000, 25.90 W, 255 MHz, 405 MHz, 255 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:28:45.039, 21.90 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:28:47.078, 21.93 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:28:49.116, 21.78 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:28:51.154, 26.94 W, 1755 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:28:53.186, 98.11 W, 1755 MHz, 6800 MHz, 1725 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:28:55.194, 147.33 W, 1560 MHz, 6800 MHz, 1560 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:28:57.198, 154.51 W, 1320 MHz, 6800 MHz, 1320 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:28:59.203, 129.90 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:29:01.209, 149.59 W, 1395 MHz, 6800 MHz, 1395 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:29:03.213, 110.56 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:29:05.217, 153.36 W, 1650 MHz, 6800 MHz, 1650 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:29:07.221, 154.38 W, 1695 MHz, 6800 MHz, 1695 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:29:09.226, 153.95 W, 1740 MHz, 6800 MHz, 1740 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:29:11.230, 137.00 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:29:13.234, 59.98 W, 2010 MHz, 7000 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:29:15.238, 25.94 W, 225 MHz, 810 MHz, 225 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:29:17.269, 22.00 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:29:19.306, 21.61 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:29:21.343, 21.72 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:29:23.380, 35.96 W, 1755 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:29:25.410, 123.49 W, 1545 MHz, 6800 MHz, 1545 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:29:27.413, 152.84 W, 1470 MHz, 6800 MHz, 1470 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:29:29.417, 153.57 W, 1515 MHz, 6800 MHz, 1515 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:29:31.423, 141.45 W, 1905 MHz, 6800 MHz, 1905 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:29:33.429, 151.34 W, 1485 MHz, 6800 MHz, 1485 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:29:35.435, 111.03 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:29:37.439, 131.62 W, 1890 MHz, 6800 MHz, 1890 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:29:39.442, 153.79 W, 1620 MHz, 6800 MHz, 1620 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:29:41.448, 153.41 W, 1800 MHz, 6800 MHz, 1800 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:29:43.454, 153.85 W, 1410 MHz, 6800 MHz, 1410 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:29:45.461, 154.27 W, 1635 MHz, 6800 MHz, 1635 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:29:47.466, 154.56 W, 1635 MHz, 6800 MHz, 1635 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:29:49.472, 109.86 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:29:51.477, 60.58 W, 2010 MHz, 7000 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:29:53.481, 25.89 W, 210 MHz, 810 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:29:55.514, 22.08 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:29:57.550, 21.83 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:29:59.587, 21.89 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:30:01.625, 38.88 W, 1755 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:30:03.652, 145.71 W, 1695 MHz, 6800 MHz, 1695 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:30:05.657, 150.98 W, 1605 MHz, 6800 MHz, 1605 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:30:07.662, 155.08 W, 1590 MHz, 6800 MHz, 1590 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:30:09.667, 130.92 W, 1890 MHz, 6800 MHz, 1890 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:30:11.670, 141.01 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:30:13.673, 86.74 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:30:15.677, 152.86 W, 1755 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:30:17.681, 154.49 W, 1710 MHz, 6800 MHz, 1710 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:30:19.685, 154.32 W, 1620 MHz, 6800 MHz, 1620 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:30:21.689, 154.47 W, 1710 MHz, 6800 MHz, 1710 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:30:23.693, 61.49 W, 2010 MHz, 7000 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:30:25.700, 41.92 W, 315 MHz, 5000 MHz, 315 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:30:27.733, 33.63 W, 210 MHz, 810 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:30:29.766, 24.24 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:30:31.803, 21.47 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:30:33.841, 21.88 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:30:35.886, 67.06 W, 2025 MHz, 6800 MHz, 2025 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:30:37.891, 144.38 W, 1620 MHz, 6800 MHz, 1620 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:30:39.897, 152.70 W, 1875 MHz, 6800 MHz, 1875 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:30:41.901, 154.17 W, 1800 MHz, 6800 MHz, 1800 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:30:43.905, 143.47 W, 1425 MHz, 6800 MHz, 1425 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:30:45.909, 130.24 W, 1920 MHz, 6800 MHz, 1920 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:30:47.915, 82.05 W, 1845 MHz, 6800 MHz, 1845 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:30:49.919, 152.58 W, 1785 MHz, 6800 MHz, 1785 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:30:51.924, 154.39 W, 1725 MHz, 6800 MHz, 1725 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:30:53.930, 154.44 W, 1695 MHz, 6800 MHz, 1695 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:30:55.936, 155.00 W, 1680 MHz, 6800 MHz, 1680 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:30:57.944, 62.10 W, 2010 MHz, 7000 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:30:59.949, 60.09 W, 315 MHz, 810 MHz, 315 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:31:01.981, 22.15 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:31:04.019, 21.72 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:31:06.057, 21.67 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:31:08.095, 21.87 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:31:10.135, 65.70 W, 2025 MHz, 6800 MHz, 2025 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:31:12.139, 145.49 W, 1485 MHz, 6800 MHz, 1485 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:31:14.143, 148.52 W, 1575 MHz, 6800 MHz, 1575 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:31:16.149, 152.40 W, 1815 MHz, 6800 MHz, 1815 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:31:18.156, 142.43 W, 1620 MHz, 6800 MHz, 1620 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:31:20.159, 118.46 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:31:22.162, 100.23 W, 1785 MHz, 6800 MHz, 1785 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:31:24.165, 154.22 W, 1740 MHz, 6800 MHz, 1740 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:31:26.171, 153.96 W, 1740 MHz, 6800 MHz, 1740 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:31:28.177, 154.98 W, 1650 MHz, 6800 MHz, 1650 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:31:30.184, 154.20 W, 1620 MHz, 6800 MHz, 1620 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:31:32.190, 77.51 W, 2010 MHz, 7000 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:31:34.194, 55.50 W, 375 MHz, 5000 MHz, 375 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:31:36.222, 33.65 W, 210 MHz, 810 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:31:38.263, 24.73 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:31:40.301, 21.83 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:31:42.339, 21.80 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:31:44.376, 48.34 W, 1755 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:31:46.405, 155.15 W, 1845 MHz, 6800 MHz, 1845 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:31:48.409, 147.80 W, 1725 MHz, 6800 MHz, 1725 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:31:50.415, 153.76 W, 1590 MHz, 6800 MHz, 1590 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:31:52.420, 145.57 W, 1545 MHz, 6800 MHz, 1545 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:31:54.425, 137.07 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:31:56.429, 89.54 W, 1785 MHz, 6800 MHz, 1785 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:31:58.433, 154.01 W, 1710 MHz, 6800 MHz, 1710 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:32:00.437, 155.08 W, 1620 MHz, 6800 MHz, 1620 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:32:02.441, 154.08 W, 1665 MHz, 6800 MHz, 1665 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:32:04.447, 129.98 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:32:06.452, 60.25 W, 2010 MHz, 7000 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:32:08.456, 39.37 W, 210 MHz, 810 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:32:10.488, 24.56 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:32:12.526, 21.90 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:32:14.563, 21.50 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:32:16.601, 33.45 W, 1755 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:32:18.633, 131.57 W, 1455 MHz, 6800 MHz, 1455 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:32:20.642, 147.99 W, 1110 MHz, 6800 MHz, 1110 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:32:22.645, 153.03 W, 1695 MHz, 6800 MHz, 1695 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:32:24.649, 140.20 W, 1620 MHz, 6800 MHz, 1620 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:32:26.653, 146.96 W, 1560 MHz, 6800 MHz, 1560 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:32:28.657, 113.69 W, 1260 MHz, 6800 MHz, 1260 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:32:30.660, 147.18 W, 1845 MHz, 6800 MHz, 1845 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:32:32.665, 153.22 W, 1770 MHz, 6800 MHz, 1770 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:32:34.670, 150.98 W, 1785 MHz, 6800 MHz, 1785 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:32:36.674, 154.32 W, 1680 MHz, 6800 MHz, 1680 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:32:38.678, 154.23 W, 1605 MHz, 6800 MHz, 1605 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:32:40.685, 143.06 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:32:42.690, 60.74 W, 2010 MHz, 7000 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:32:44.694, 26.19 W, 225 MHz, 405 MHz, 225 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:32:46.735, 22.18 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:32:48.774, 21.94 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:32:50.812, 21.83 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:32:52.850, 32.56 W, 1755 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:32:54.882, 124.98 W, 1425 MHz, 6800 MHz, 1425 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:32:56.891, 152.99 W, 1515 MHz, 6800 MHz, 1515 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:32:58.895, 152.12 W, 1590 MHz, 6800 MHz, 1590 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:33:00.899, 147.78 W, 1560 MHz, 6800 MHz, 1560 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:33:02.905, 150.78 W, 1710 MHz, 6800 MHz, 1710 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:33:04.911, 117.39 W, 1080 MHz, 6800 MHz, 1080 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:33:06.915, 140.12 W, 1590 MHz, 6800 MHz, 1590 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:33:08.921, 152.51 W, 1830 MHz, 6800 MHz, 1830 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:33:10.925, 152.08 W, 1680 MHz, 6800 MHz, 1680 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:33:12.929, 154.11 W, 1680 MHz, 6800 MHz, 1680 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:33:14.933, 154.21 W, 1695 MHz, 6800 MHz, 1695 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:33:16.938, 103.58 W, 2010 MHz, 7000 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:33:18.945, 60.39 W, 405 MHz, 5000 MHz, 405 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:33:20.979, 33.68 W, 210 MHz, 810 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:33:23.012, 24.46 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:33:25.051, 21.83 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:33:27.090, 21.51 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:33:29.127, 46.54 W, 1755 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:33:31.155, 151.38 W, 1845 MHz, 6800 MHz, 1845 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:33:33.160, 148.88 W, 1770 MHz, 6800 MHz, 1770 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:33:35.164, 153.47 W, 1815 MHz, 6800 MHz, 1815 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:33:37.167, 133.63 W, 1635 MHz, 6800 MHz, 1635 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:33:39.170, 137.01 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:33:41.173, 88.90 W, 1965 MHz, 6800 MHz, 1965 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:33:43.176, 153.12 W, 1650 MHz, 6800 MHz, 1650 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:33:45.180, 154.40 W, 1620 MHz, 6800 MHz, 1620 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:33:47.183, 154.97 W, 1740 MHz, 6800 MHz, 1740 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:33:49.187, 132.06 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:33:51.191, 60.30 W, 2010 MHz, 7000 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:33:53.195, 33.57 W, 270 MHz, 5000 MHz, 270 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:33:55.228, 25.35 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:33:57.265, 21.78 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:33:59.303, 21.85 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:34:01.341, 33.04 W, 1755 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:34:03.368, 126.51 W, 1500 MHz, 6800 MHz, 1500 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:34:05.374, 153.15 W, 1980 MHz, 6800 MHz, 1980 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:34:07.378, 154.16 W, 1620 MHz, 6800 MHz, 1620 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:34:09.381, 141.59 W, 1845 MHz, 6800 MHz, 1845 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:34:11.385, 129.06 W, 1530 MHz, 6800 MHz, 1530 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:34:13.388, 75.57 W, 1275 MHz, 6800 MHz, 1275 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:34:15.391, 155.09 W, 1680 MHz, 6800 MHz, 1680 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:34:17.395, 154.34 W, 1710 MHz, 6800 MHz, 1710 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:34:19.399, 154.12 W, 1620 MHz, 6800 MHz, 1620 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:34:21.406, 61.55 W, 2010 MHz, 7000 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:34:23.410, 33.89 W, 270 MHz, 5000 MHz, 270 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:34:25.444, 25.22 W, 210 MHz, 810 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:34:27.477, 21.65 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:34:29.515, 21.28 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:34:31.552, 22.76 W, 1755 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:34:33.580, 71.24 W, 1290 MHz, 6800 MHz, 1290 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:34:35.585, 147.74 W, 1485 MHz, 6800 MHz, 1485 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:34:37.588, 152.73 W, 1845 MHz, 6800 MHz, 1845 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:34:39.592, 153.81 W, 1770 MHz, 6800 MHz, 1770 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:34:41.596, 154.25 W, 1905 MHz, 6800 MHz, 1905 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:34:43.603, 113.25 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:34:45.606, 132.88 W, 1650 MHz, 6800 MHz, 1650 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:34:47.611, 153.16 W, 1785 MHz, 6800 MHz, 1785 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:34:49.615, 155.34 W, 1575 MHz, 6800 MHz, 1575 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:34:51.621, 154.16 W, 1710 MHz, 6800 MHz, 1710 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:34:53.627, 154.31 W, 1680 MHz, 6800 MHz, 1635 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:34:55.637, 132.99 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:34:57.641, 60.54 W, 2010 MHz, 7000 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:34:59.645, 33.65 W, 270 MHz, 5000 MHz, 270 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:35:01.679, 25.29 W, 210 MHz, 810 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:35:03.711, 21.86 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:35:05.749, 21.75 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:35:07.786, 21.77 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:35:09.830, 28.12 W, 1755 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:35:11.858, 125.88 W, 1815 MHz, 6800 MHz, 1815 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:35:13.862, 161.09 W, 1740 MHz, 6800 MHz, 1740 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:35:15.866, 160.79 W, 1650 MHz, 6800 MHz, 1650 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:35:17.870, 149.28 W, 1770 MHz, 6800 MHz, 1770 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:35:19.878, 159.96 W, 1665 MHz, 6800 MHz, 1665 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:35:21.884, 113.07 W, 1395 MHz, 6800 MHz, 1395 MHz, Not Active, Not Active, Active, Active
+2020/11/21 07:35:23.890, 147.22 W, 1755 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:35:25.896, 162.60 W, 1590 MHz, 6800 MHz, 1590 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:35:27.905, 163.50 W, 1830 MHz, 6800 MHz, 1830 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:35:29.909, 162.42 W, 1770 MHz, 6800 MHz, 1770 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:35:31.914, 164.72 W, 1740 MHz, 6800 MHz, 1740 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:35:33.919, 164.40 W, 1770 MHz, 6800 MHz, 1770 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:35:35.924, 64.47 W, 2010 MHz, 7000 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:35:37.943, 50.17 W, 405 MHz, 810 MHz, 405 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:35:39.975, 24.81 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:35:42.013, 22.05 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:35:44.049, 21.71 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:35:46.089, 22.01 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:35:48.126, 51.23 W, 1755 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:35:50.153, 155.22 W, 1230 MHz, 6800 MHz, 1230 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:35:52.158, 159.27 W, 1575 MHz, 6800 MHz, 1575 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:35:54.163, 162.06 W, 1830 MHz, 6800 MHz, 1830 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:35:56.166, 151.77 W, 1635 MHz, 6800 MHz, 1635 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:35:58.170, 116.29 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:36:00.174, 129.82 W, 1695 MHz, 6800 MHz, 1695 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:36:02.178, 164.50 W, 1770 MHz, 6800 MHz, 1770 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:36:04.181, 164.55 W, 1770 MHz, 6800 MHz, 1770 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:36:06.184, 164.41 W, 1755 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:36:08.190, 60.67 W, 2010 MHz, 7000 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:36:10.195, 33.68 W, 315 MHz, 5000 MHz, 315 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:36:12.227, 33.34 W, 210 MHz, 810 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:36:14.259, 24.19 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:36:16.296, 21.37 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:36:18.333, 25.27 W, 1755 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:36:20.362, 87.98 W, 1740 MHz, 6800 MHz, 1740 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:36:22.367, 156.40 W, 1605 MHz, 6800 MHz, 1605 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:36:24.370, 161.92 W, 1875 MHz, 6800 MHz, 1875 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:36:26.374, 149.67 W, 1575 MHz, 6800 MHz, 1575 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:36:28.378, 155.28 W, 1950 MHz, 6800 MHz, 1950 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:36:30.381, 108.49 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:36:32.385, 164.36 W, 1740 MHz, 6800 MHz, 1740 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:36:34.390, 164.48 W, 1740 MHz, 6800 MHz, 1740 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:36:36.393, 164.54 W, 1785 MHz, 6800 MHz, 1785 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:36:38.397, 164.13 W, 1770 MHz, 6800 MHz, 1740 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:36:40.405, 107.32 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:36:42.410, 45.76 W, 795 MHz, 5000 MHz, 795 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:36:44.439, 33.81 W, 315 MHz, 810 MHz, 315 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:36:46.472, 24.43 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:36:48.510, 21.74 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:36:50.547, 21.73 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:36:52.584, 46.63 W, 1755 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:36:54.615, 157.47 W, 1875 MHz, 6800 MHz, 1875 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:36:56.618, 155.37 W, 1845 MHz, 6800 MHz, 1845 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:36:58.627, 163.15 W, 1770 MHz, 6800 MHz, 1770 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:37:00.631, 140.42 W, 1740 MHz, 6800 MHz, 1740 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:37:02.635, 136.38 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:37:04.640, 78.28 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:37:06.644, 163.70 W, 1800 MHz, 6800 MHz, 1800 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:37:08.648, 164.06 W, 1770 MHz, 6800 MHz, 1770 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:37:10.652, 164.23 W, 1770 MHz, 6800 MHz, 1770 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:37:12.656, 163.79 W, 1770 MHz, 6800 MHz, 1770 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:37:14.660, 99.78 W, 2010 MHz, 7000 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:37:16.665, 57.93 W, 405 MHz, 5000 MHz, 405 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:37:18.700, 33.70 W, 210 MHz, 810 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:37:20.732, 24.62 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:37:22.772, 21.66 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:37:24.809, 21.73 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:37:26.850, 46.73 W, 1755 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:37:28.878, 161.83 W, 1860 MHz, 6800 MHz, 1860 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:37:30.883, 157.86 W, 1845 MHz, 6800 MHz, 1845 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:37:32.887, 164.15 W, 1710 MHz, 6800 MHz, 1710 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:37:34.891, 156.15 W, 1455 MHz, 6800 MHz, 1455 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:37:36.895, 132.03 W, 1590 MHz, 6800 MHz, 1590 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:37:38.900, 74.10 W, 1260 MHz, 6800 MHz, 1260 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:37:40.908, 163.66 W, 1695 MHz, 6800 MHz, 1695 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:37:42.916, 164.65 W, 1755 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:37:44.920, 164.32 W, 1740 MHz, 6800 MHz, 1740 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:37:46.925, 95.73 W, 2010 MHz, 7000 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:37:48.929, 47.56 W, 780 MHz, 5000 MHz, 780 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:37:50.965, 25.96 W, 315 MHz, 405 MHz, 315 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:37:53.005, 21.93 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:37:55.042, 21.97 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:37:57.079, 21.52 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:37:59.114, 46.75 W, 1755 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:38:01.141, 161.47 W, 1860 MHz, 6800 MHz, 1860 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:38:03.144, 157.21 W, 1830 MHz, 6800 MHz, 1830 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:38:05.148, 162.16 W, 1635 MHz, 6800 MHz, 1635 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:38:07.151, 156.06 W, 1860 MHz, 6800 MHz, 1680 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:38:09.159, 131.73 W, 1830 MHz, 6800 MHz, 1830 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:38:11.162, 82.08 W, 1605 MHz, 6800 MHz, 1605 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:38:13.166, 164.58 W, 1725 MHz, 6800 MHz, 1725 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:38:15.169, 164.29 W, 1770 MHz, 6800 MHz, 1770 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:38:17.172, 164.37 W, 1755 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:38:19.178, 86.39 W, 2010 MHz, 7000 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:38:21.182, 60.36 W, 405 MHz, 810 MHz, 405 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:38:23.214, 22.44 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:38:25.251, 22.14 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:38:27.292, 22.16 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:38:29.329, 22.06 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:38:31.365, 46.73 W, 1755 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:38:33.392, 163.36 W, 1860 MHz, 6800 MHz, 1860 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:38:35.396, 155.93 W, 1815 MHz, 6800 MHz, 1815 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:38:37.399, 163.33 W, 1560 MHz, 6800 MHz, 1560 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:38:39.405, 154.65 W, 1425 MHz, 6800 MHz, 1425 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:38:41.408, 149.44 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:38:43.412, 87.14 W, 1935 MHz, 6800 MHz, 1935 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:38:45.415, 162.25 W, 1875 MHz, 6800 MHz, 1875 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:38:47.419, 163.48 W, 1815 MHz, 6800 MHz, 1815 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:38:49.423, 164.30 W, 1740 MHz, 6800 MHz, 1740 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:38:51.427, 164.47 W, 1710 MHz, 6800 MHz, 1710 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:38:53.430, 164.36 W, 1725 MHz, 6800 MHz, 1725 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:38:55.434, 62.19 W, 2010 MHz, 7000 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:38:57.439, 60.71 W, 285 MHz, 810 MHz, 285 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:38:59.471, 22.50 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:39:01.511, 22.34 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:39:03.549, 22.08 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:39:05.586, 22.57 W, 1755 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:39:07.613, 80.09 W, 1245 MHz, 6800 MHz, 1245 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:39:09.617, 156.45 W, 1620 MHz, 6800 MHz, 1620 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:39:11.622, 162.35 W, 1845 MHz, 6800 MHz, 1845 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:39:13.625, 162.15 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:39:15.632, 161.73 W, 1710 MHz, 6800 MHz, 1710 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:39:17.636, 120.22 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:39:19.640, 112.92 W, 1845 MHz, 6800 MHz, 1845 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:39:21.645, 161.47 W, 1845 MHz, 6800 MHz, 1845 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:39:23.649, 162.34 W, 1920 MHz, 6800 MHz, 1920 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:39:25.653, 164.16 W, 1785 MHz, 6800 MHz, 1785 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:39:27.656, 163.18 W, 1395 MHz, 6800 MHz, 1395 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:39:29.661, 162.47 W, 1830 MHz, 6800 MHz, 1830 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:39:31.667, 161.52 W, 1755 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:39:33.671, 164.73 W, 1755 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:39:35.676, 164.72 W, 1755 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:39:37.683, 61.20 W, 2010 MHz, 7000 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:39:39.689, 34.67 W, 270 MHz, 5000 MHz, 270 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:39:41.724, 25.53 W, 210 MHz, 810 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:39:43.756, 22.49 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:39:45.795, 22.04 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:39:47.834, 25.44 W, 1755 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:39:49.861, 79.96 W, 1590 MHz, 6800 MHz, 1590 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:39:51.865, 155.20 W, 1695 MHz, 6800 MHz, 1695 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:39:53.869, 163.14 W, 1845 MHz, 6800 MHz, 1845 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:39:55.876, 148.99 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:39:57.880, 159.46 W, 1860 MHz, 6800 MHz, 1860 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:39:59.884, 118.89 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:40:01.889, 126.01 W, 1830 MHz, 6800 MHz, 1830 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:40:03.892, 164.16 W, 1710 MHz, 6800 MHz, 1710 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:40:05.897, 161.80 W, 1860 MHz, 6800 MHz, 1860 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:40:07.901, 161.46 W, 1815 MHz, 6800 MHz, 1815 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:40:09.904, 162.31 W, 1680 MHz, 6800 MHz, 1680 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:40:11.907, 163.15 W, 1785 MHz, 6800 MHz, 1785 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:40:13.912, 163.17 W, 1755 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:40:15.918, 164.17 W, 1755 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:40:17.923, 164.51 W, 1845 MHz, 6800 MHz, 1845 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:40:19.929, 61.19 W, 2010 MHz, 7000 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:40:21.933, 26.56 W, 225 MHz, 810 MHz, 225 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:40:23.965, 22.19 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:40:26.002, 21.95 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:40:28.039, 21.90 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:40:30.076, 31.82 W, 1755 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:40:32.107, 122.33 W, 1710 MHz, 6800 MHz, 1710 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:40:34.110, 157.45 W, 1755 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:40:36.113, 163.35 W, 1560 MHz, 6800 MHz, 1560 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:40:38.117, 148.97 W, 1560 MHz, 6800 MHz, 1560 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:40:40.123, 150.98 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:40:42.126, 92.50 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:40:44.132, 163.69 W, 1830 MHz, 6800 MHz, 1830 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:40:46.135, 164.62 W, 1725 MHz, 6800 MHz, 1725 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:40:48.138, 164.28 W, 1785 MHz, 6800 MHz, 1785 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:40:50.142, 164.64 W, 1800 MHz, 6800 MHz, 1800 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:40:52.146, 60.68 W, 2010 MHz, 7000 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:40:54.151, 41.57 W, 480 MHz, 810 MHz, 480 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:40:56.183, 25.08 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:40:58.220, 22.12 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:41:00.258, 21.97 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:41:02.296, 26.07 W, 1755 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:41:04.326, 97.77 W, 1800 MHz, 6800 MHz, 1800 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:41:06.330, 154.02 W, 1650 MHz, 6800 MHz, 1650 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:41:08.336, 164.20 W, 1815 MHz, 6800 MHz, 1815 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:41:10.342, 147.67 W, 1650 MHz, 6800 MHz, 1650 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:41:12.346, 159.93 W, 1545 MHz, 6800 MHz, 1545 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:41:14.350, 112.52 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:41:16.354, 146.87 W, 1860 MHz, 6800 MHz, 1860 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:41:18.359, 163.27 W, 1845 MHz, 6800 MHz, 1845 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:41:20.363, 162.41 W, 1800 MHz, 6800 MHz, 1800 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:41:22.367, 164.22 W, 1740 MHz, 6800 MHz, 1740 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:41:24.371, 164.11 W, 1770 MHz, 6800 MHz, 1770 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:41:26.378, 87.60 W, 2010 MHz, 7000 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:41:28.384, 44.17 W, 735 MHz, 5000 MHz, 735 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:41:30.417, 33.88 W, 300 MHz, 5000 MHz, 300 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:41:32.448, 25.66 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:41:34.489, 22.23 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:41:36.527, 21.97 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:41:38.565, 46.91 W, 1755 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:41:40.597, 164.13 W, 1845 MHz, 6800 MHz, 1845 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:41:42.602, 157.79 W, 1830 MHz, 6800 MHz, 1830 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:41:44.606, 162.16 W, 1590 MHz, 6800 MHz, 1590 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:41:46.611, 152.59 W, 1590 MHz, 6800 MHz, 1590 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:41:48.615, 140.17 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:41:50.619, 91.36 W, 1995 MHz, 6800 MHz, 1995 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:41:52.623, 163.13 W, 1860 MHz, 6800 MHz, 1860 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:41:54.632, 161.82 W, 1605 MHz, 6800 MHz, 1605 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:41:56.636, 160.57 W, 1860 MHz, 6800 MHz, 1860 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:41:58.642, 164.28 W, 1860 MHz, 6800 MHz, 1725 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:42:00.649, 159.82 W, 1815 MHz, 6800 MHz, 1815 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:42:02.653, 164.37 W, 1725 MHz, 6800 MHz, 1725 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:42:04.658, 164.29 W, 1725 MHz, 6800 MHz, 1725 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:42:06.662, 140.98 W, 1995 MHz, 6800 MHz, 1995 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:42:08.666, 61.17 W, 2010 MHz, 7000 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:42:10.670, 34.31 W, 210 MHz, 810 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:42:12.701, 25.01 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:42:14.760, 22.26 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:42:16.797, 22.20 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:42:18.833, 38.09 W, 1755 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:42:20.861, 132.77 W, 1560 MHz, 6800 MHz, 1560 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:42:22.865, 157.60 W, 1320 MHz, 6800 MHz, 1320 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:42:24.868, 163.09 W, 1485 MHz, 6800 MHz, 1485 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:42:26.871, 148.97 W, 1845 MHz, 6800 MHz, 1845 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:42:28.876, 160.01 W, 1680 MHz, 6800 MHz, 1680 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:42:30.883, 111.58 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:42:32.888, 161.56 W, 1545 MHz, 6800 MHz, 1545 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:42:34.891, 162.61 W, 1755 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:42:36.895, 163.51 W, 1770 MHz, 6800 MHz, 1770 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:42:38.898, 164.01 W, 1770 MHz, 6800 MHz, 1770 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:42:40.902, 100.96 W, 1995 MHz, 7000 MHz, 1995 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:42:42.933, 58.15 W, 420 MHz, 5000 MHz, 420 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:42:44.965, 33.76 W, 210 MHz, 810 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:42:46.997, 24.87 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:42:49.034, 22.31 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:42:51.071, 22.14 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:42:53.108, 46.95 W, 1755 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:42:55.139, 161.37 W, 1845 MHz, 6800 MHz, 1845 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:42:57.142, 157.01 W, 1830 MHz, 6800 MHz, 1830 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:42:59.146, 161.64 W, 1770 MHz, 6800 MHz, 1770 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:43:01.152, 154.60 W, 1800 MHz, 6800 MHz, 1800 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:43:03.155, 151.30 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Not Active, Active
+2020/11/21 07:43:05.158, 91.24 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:43:07.165, 162.60 W, 1800 MHz, 6800 MHz, 1800 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:43:09.168, 162.65 W, 1770 MHz, 6800 MHz, 1770 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:43:11.174, 164.87 W, 1725 MHz, 6800 MHz, 1725 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:43:13.182, 164.23 W, 1800 MHz, 6800 MHz, 1785 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:43:15.193, 164.20 W, 1800 MHz, 6800 MHz, 1800 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:43:17.197, 61.75 W, 2010 MHz, 7000 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:43:19.202, 34.16 W, 300 MHz, 5000 MHz, 300 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:43:21.232, 25.67 W, 210 MHz, 810 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:43:23.265, 22.11 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:43:25.303, 21.89 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:43:27.341, 24.52 W, 1755 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:43:29.368, 80.74 W, 1860 MHz, 6800 MHz, 1860 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:43:31.372, 157.01 W, 1635 MHz, 6800 MHz, 1635 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:43:33.376, 164.40 W, 1470 MHz, 6800 MHz, 1470 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:43:35.380, 148.20 W, 1332 MHz, 6800 MHz, 1332 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:43:37.383, 159.21 W, 1665 MHz, 6800 MHz, 1665 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:43:39.388, 121.84 W, 1920 MHz, 6800 MHz, 1920 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:43:41.395, 163.27 W, 1695 MHz, 6800 MHz, 1695 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:43:43.400, 164.05 W, 1710 MHz, 6800 MHz, 1710 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:43:45.405, 163.89 W, 1695 MHz, 6800 MHz, 1695 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:43:47.409, 164.71 W, 1710 MHz, 6800 MHz, 1710 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:43:49.413, 61.67 W, 2010 MHz, 7000 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:43:51.418, 39.61 W, 255 MHz, 810 MHz, 285 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:43:53.467, 24.71 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:43:55.505, 22.14 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:43:57.544, 21.80 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:43:59.581, 22.31 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:44:01.623, 22.26 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:44:03.661, 66.69 W, 1920 MHz, 6800 MHz, 1920 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:44:05.691, 162.48 W, 1665 MHz, 6800 MHz, 1665 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:44:07.695, 171.96 W, 1845 MHz, 6800 MHz, 1845 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:44:09.699, 174.07 W, 1785 MHz, 6800 MHz, 1785 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:44:11.703, 169.88 W, 1500 MHz, 6800 MHz, 1500 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:44:13.708, 113.84 W, 1332 MHz, 6800 MHz, 1332 MHz, Not Active, Not Active, Active, Active
+2020/11/21 07:44:15.712, 156.77 W, 1800 MHz, 6800 MHz, 1800 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:44:17.717, 173.70 W, 1785 MHz, 6800 MHz, 1785 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:44:19.723, 173.89 W, 1755 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:44:21.729, 173.66 W, 1800 MHz, 6800 MHz, 1800 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:44:23.733, 61.94 W, 2010 MHz, 7000 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:44:25.737, 34.23 W, 270 MHz, 5000 MHz, 270 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:44:27.766, 25.78 W, 210 MHz, 810 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:44:29.797, 22.71 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:44:31.836, 22.18 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:44:33.873, 24.76 W, 1755 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:44:35.900, 82.27 W, 1830 MHz, 6800 MHz, 1830 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:44:37.903, 163.96 W, 1680 MHz, 6800 MHz, 1680 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:44:39.907, 171.97 W, 1905 MHz, 6800 MHz, 1905 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:44:41.910, 157.51 W, 1560 MHz, 6800 MHz, 1560 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:44:43.913, 167.19 W, 1815 MHz, 6800 MHz, 1815 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:44:45.916, 116.23 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:44:47.920, 144.53 W, 1590 MHz, 6800 MHz, 1590 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:44:49.925, 172.12 W, 1875 MHz, 6800 MHz, 1875 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:44:51.928, 168.86 W, 1800 MHz, 6800 MHz, 1800 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:44:53.932, 174.15 W, 1665 MHz, 6800 MHz, 1665 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:44:55.936, 173.33 W, 1770 MHz, 6800 MHz, 1770 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:44:57.946, 137.81 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:44:59.951, 61.08 W, 2010 MHz, 7000 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:45:01.955, 34.29 W, 270 MHz, 5000 MHz, 270 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:45:03.986, 25.98 W, 210 MHz, 810 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:45:06.018, 22.58 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:45:08.055, 22.24 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:45:10.092, 34.18 W, 1755 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:45:12.119, 142.67 W, 1590 MHz, 6800 MHz, 1590 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:45:14.122, 166.75 W, 1890 MHz, 6800 MHz, 1890 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:45:16.126, 174.82 W, 1695 MHz, 6800 MHz, 1695 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:45:18.134, 145.58 W, 1800 MHz, 6800 MHz, 1800 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:45:20.137, 164.77 W, 1860 MHz, 6800 MHz, 1860 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:45:22.141, 106.48 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:45:24.144, 173.48 W, 1830 MHz, 6800 MHz, 1830 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:45:26.149, 169.81 W, 1890 MHz, 6800 MHz, 1890 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:45:28.153, 174.08 W, 1545 MHz, 6800 MHz, 1545 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:45:30.157, 170.46 W, 1845 MHz, 6800 MHz, 1845 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:45:32.161, 172.07 W, 1935 MHz, 6800 MHz, 1935 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:45:34.164, 172.55 W, 1635 MHz, 6800 MHz, 1635 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:45:36.168, 174.45 W, 1755 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:45:38.172, 173.83 W, 1800 MHz, 6800 MHz, 1800 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:45:40.176, 112.23 W, 2010 MHz, 7000 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:45:42.181, 49.18 W, 825 MHz, 5000 MHz, 825 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:45:44.215, 34.50 W, 330 MHz, 5000 MHz, 330 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:45:46.252, 26.06 W, 210 MHz, 810 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:45:48.284, 22.50 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:45:50.321, 22.40 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:45:52.358, 47.55 W, 1755 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:45:54.385, 174.55 W, 1860 MHz, 6800 MHz, 1860 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:45:56.393, 165.97 W, 1860 MHz, 6800 MHz, 1860 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:45:58.398, 171.62 W, 1770 MHz, 6800 MHz, 1770 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:46:00.403, 163.18 W, 1935 MHz, 6800 MHz, 1935 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:46:02.407, 136.85 W, 1995 MHz, 6800 MHz, 1995 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:46:04.412, 89.42 W, 1890 MHz, 6800 MHz, 1890 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:46:06.416, 174.61 W, 1830 MHz, 6800 MHz, 1830 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:46:08.422, 174.21 W, 1785 MHz, 6800 MHz, 1785 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:46:10.428, 173.92 W, 1710 MHz, 6800 MHz, 1710 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:46:12.435, 173.33 W, 1815 MHz, 6800 MHz, 1740 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:46:14.450, 60.67 W, 2010 MHz, 7000 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:46:16.455, 33.89 W, 270 MHz, 5000 MHz, 270 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:46:18.485, 25.55 W, 210 MHz, 810 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:46:20.518, 22.14 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:46:22.556, 21.92 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:46:24.594, 29.36 W, 1755 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:46:26.622, 113.42 W, 1845 MHz, 6800 MHz, 1845 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:46:28.625, 163.36 W, 1815 MHz, 6800 MHz, 1815 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:46:30.630, 170.64 W, 1590 MHz, 6800 MHz, 1590 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:46:32.636, 157.07 W, 1470 MHz, 6800 MHz, 1470 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:46:34.639, 166.13 W, 1740 MHz, 6800 MHz, 1740 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:46:36.642, 121.47 W, 1830 MHz, 6800 MHz, 1830 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:46:38.645, 170.02 W, 1875 MHz, 6800 MHz, 1875 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:46:40.651, 172.13 W, 1845 MHz, 6800 MHz, 1845 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:46:42.656, 173.74 W, 1785 MHz, 6800 MHz, 1785 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:46:44.661, 173.92 W, 1710 MHz, 6800 MHz, 1710 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:46:46.667, 173.84 W, 1770 MHz, 6800 MHz, 1770 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:46:48.682, 61.99 W, 2010 MHz, 7000 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:46:50.686, 39.63 W, 255 MHz, 810 MHz, 255 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:46:52.719, 24.66 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:46:54.757, 22.52 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:46:56.794, 22.09 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:46:58.833, 25.94 W, 1755 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:47:00.864, 83.96 W, 1875 MHz, 6800 MHz, 1875 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:47:02.870, 163.45 W, 1635 MHz, 6800 MHz, 1620 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:47:04.880, 172.57 W, 1845 MHz, 6800 MHz, 1845 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:47:06.883, 161.13 W, 1305 MHz, 6800 MHz, 1305 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:47:08.887, 168.97 W, 1635 MHz, 6800 MHz, 1635 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:47:10.891, 115.12 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:47:12.894, 148.59 W, 1560 MHz, 6800 MHz, 1560 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:47:14.900, 173.09 W, 1875 MHz, 6800 MHz, 1875 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:47:16.903, 174.99 W, 1815 MHz, 6800 MHz, 1815 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:47:18.907, 173.85 W, 1875 MHz, 6800 MHz, 1875 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:47:20.912, 174.93 W, 1740 MHz, 6800 MHz, 1740 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:47:22.919, 174.43 W, 1710 MHz, 6800 MHz, 1710 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:47:24.924, 144.16 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:47:26.931, 61.05 W, 2010 MHz, 7000 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:47:28.935, 34.17 W, 270 MHz, 5000 MHz, 270 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:47:30.966, 25.81 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:47:33.004, 22.34 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:47:35.041, 22.27 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:47:37.078, 33.82 W, 1755 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:47:39.111, 144.29 W, 1575 MHz, 6800 MHz, 1575 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:47:41.117, 165.67 W, 1890 MHz, 6800 MHz, 1890 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:47:43.123, 174.82 W, 1695 MHz, 6800 MHz, 1695 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:47:45.129, 144.31 W, 1905 MHz, 6800 MHz, 1905 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:47:47.133, 166.62 W, 1890 MHz, 6800 MHz, 1890 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:47:49.136, 104.99 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:47:51.140, 174.39 W, 1755 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:47:53.144, 171.47 W, 1875 MHz, 6800 MHz, 1875 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:47:55.148, 172.93 W, 1875 MHz, 6800 MHz, 1875 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:47:57.151, 172.61 W, 1905 MHz, 6800 MHz, 1905 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:47:59.155, 173.62 W, 1770 MHz, 6800 MHz, 1770 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:48:01.159, 174.24 W, 1830 MHz, 6800 MHz, 1830 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:48:03.163, 159.21 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:48:05.168, 61.29 W, 2010 MHz, 7000 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:48:07.172, 34.28 W, 225 MHz, 810 MHz, 225 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:48:09.204, 24.83 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:48:11.243, 22.07 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:48:13.281, 22.05 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:48:15.319, 36.74 W, 1755 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:48:17.350, 135.88 W, 1500 MHz, 6800 MHz, 1500 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:48:19.357, 167.12 W, 1332 MHz, 6800 MHz, 1332 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:48:21.363, 171.39 W, 1605 MHz, 6800 MHz, 1605 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:48:23.367, 156.13 W, 1950 MHz, 6800 MHz, 1950 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:48:25.371, 166.32 W, 1860 MHz, 6800 MHz, 1860 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:48:27.375, 111.42 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:48:29.379, 173.48 W, 1845 MHz, 6800 MHz, 1845 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:48:31.383, 172.35 W, 1860 MHz, 6800 MHz, 1860 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:48:33.388, 171.89 W, 1800 MHz, 6800 MHz, 1800 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:48:35.392, 174.53 W, 1725 MHz, 6800 MHz, 1725 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:48:37.395, 174.19 W, 1785 MHz, 6800 MHz, 1785 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:48:39.399, 86.52 W, 2010 MHz, 7000 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:48:41.403, 53.28 W, 420 MHz, 5000 MHz, 420 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:48:43.432, 34.23 W, 210 MHz, 810 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:48:45.464, 25.01 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:48:47.501, 22.32 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:48:49.538, 22.13 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:48:51.574, 49.09 W, 1755 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:48:53.600, 174.06 W, 1845 MHz, 6800 MHz, 1845 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:48:55.603, 168.25 W, 1485 MHz, 6800 MHz, 1485 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:48:57.607, 172.85 W, 1785 MHz, 6800 MHz, 1785 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:48:59.610, 163.70 W, 1605 MHz, 6800 MHz, 1605 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:49:01.613, 137.13 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:49:03.618, 88.83 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:49:05.621, 172.19 W, 1845 MHz, 6800 MHz, 1845 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:49:07.624, 171.63 W, 1920 MHz, 6800 MHz, 1920 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:49:09.628, 171.78 W, 1725 MHz, 6800 MHz, 1725 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:49:11.632, 174.54 W, 1785 MHz, 6800 MHz, 1785 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:49:13.635, 175.25 W, 1815 MHz, 6800 MHz, 1815 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:49:15.639, 106.11 W, 2010 MHz, 7000 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:49:17.650, 61.20 W, 405 MHz, 810 MHz, 405 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:49:19.682, 22.79 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:49:21.719, 22.62 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:49:23.757, 22.72 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:49:25.802, 22.32 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:49:27.838, 47.23 W, 1755 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:49:29.867, 174.11 W, 1875 MHz, 6800 MHz, 1875 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:49:31.871, 166.40 W, 1860 MHz, 6800 MHz, 1860 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:49:33.874, 174.76 W, 1785 MHz, 6800 MHz, 1785 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:49:35.878, 161.43 W, 1695 MHz, 6800 MHz, 1695 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:49:37.885, 139.84 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:49:39.889, 83.70 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:49:41.893, 171.79 W, 1485 MHz, 6800 MHz, 1485 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:49:43.896, 172.86 W, 1875 MHz, 6800 MHz, 1875 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:49:45.900, 172.72 W, 1890 MHz, 6800 MHz, 1890 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:49:47.906, 174.27 W, 1800 MHz, 6800 MHz, 1800 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:49:49.910, 173.39 W, 1860 MHz, 6800 MHz, 1860 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:49:51.914, 173.77 W, 1785 MHz, 6800 MHz, 1785 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:49:53.926, 173.62 W, 1815 MHz, 6800 MHz, 1815 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:49:55.934, 137.30 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:49:57.939, 61.24 W, 2010 MHz, 7000 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:49:59.943, 39.93 W, 210 MHz, 810 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:50:01.976, 25.22 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:50:04.014, 22.36 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:50:06.052, 22.45 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:50:08.089, 33.49 W, 1755 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:50:10.116, 151.66 W, 1635 MHz, 6800 MHz, 1635 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:50:12.122, 165.35 W, 1785 MHz, 6800 MHz, 1785 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:50:14.128, 174.05 W, 1665 MHz, 6800 MHz, 1665 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:50:16.132, 148.41 W, 1920 MHz, 6800 MHz, 1920 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:50:18.136, 162.65 W, 1935 MHz, 6800 MHz, 1935 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:50:20.139, 100.73 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:50:22.143, 173.77 W, 1605 MHz, 6800 MHz, 1605 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:50:24.149, 172.82 W, 1635 MHz, 6800 MHz, 1815 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:50:26.163, 173.43 W, 1785 MHz, 6800 MHz, 1785 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:50:28.167, 174.58 W, 1800 MHz, 6800 MHz, 1800 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:50:30.171, 173.66 W, 1740 MHz, 6800 MHz, 1740 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:50:32.176, 78.72 W, 2010 MHz, 7000 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:50:34.181, 35.88 W, 645 MHz, 5000 MHz, 645 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:50:36.215, 25.95 W, 255 MHz, 810 MHz, 255 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:50:38.253, 22.55 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:50:40.294, 22.28 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:50:42.332, 22.19 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:50:44.376, 48.54 W, 1755 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:50:46.409, 167.05 W, 1560 MHz, 6800 MHz, 1560 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:50:48.412, 169.29 W, 1665 MHz, 6800 MHz, 1665 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:50:50.415, 172.06 W, 1860 MHz, 6800 MHz, 1860 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:50:52.419, 158.94 W, 1890 MHz, 6800 MHz, 1890 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:50:54.422, 120.50 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:50:56.428, 129.48 W, 1860 MHz, 6800 MHz, 1860 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:50:58.433, 173.40 W, 1860 MHz, 6800 MHz, 1860 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:51:00.437, 173.19 W, 1860 MHz, 6800 MHz, 1860 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:51:02.440, 173.49 W, 1860 MHz, 6800 MHz, 1860 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:51:04.444, 174.55 W, 1725 MHz, 6800 MHz, 1725 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:51:06.449, 174.83 W, 1725 MHz, 6800 MHz, 1725 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:51:08.454, 175.05 W, 1815 MHz, 6800 MHz, 1815 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:51:10.458, 62.51 W, 2010 MHz, 7000 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:51:12.462, 61.17 W, 285 MHz, 810 MHz, 285 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:51:14.494, 24.40 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:51:16.532, 22.69 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:51:18.570, 22.58 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:51:20.606, 23.32 W, 1755 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:51:22.635, 70.04 W, 1680 MHz, 6800 MHz, 1680 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:51:24.638, 161.78 W, 1650 MHz, 6800 MHz, 1650 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:51:26.642, 173.91 W, 1860 MHz, 6800 MHz, 1860 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:51:28.645, 155.58 W, 1342 MHz, 6800 MHz, 1342 MHz, Not Active, Not Active, Active, Active
+2020/11/21 07:51:30.649, 172.33 W, 1560 MHz, 6800 MHz, 1560 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:51:32.652, 117.43 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:51:34.658, 140.61 W, 1860 MHz, 6800 MHz, 1860 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:51:36.662, 173.07 W, 1770 MHz, 6800 MHz, 1770 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:51:38.666, 172.78 W, 1740 MHz, 6800 MHz, 1740 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:51:40.670, 174.34 W, 1800 MHz, 6800 MHz, 1800 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:51:42.674, 174.85 W, 1755 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:51:44.678, 62.48 W, 2010 MHz, 7000 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:51:46.684, 42.21 W, 315 MHz, 5000 MHz, 315 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:51:48.718, 25.71 W, 210 MHz, 810 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:51:50.750, 22.16 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:51:52.787, 21.81 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:51:54.828, 22.13 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:51:56.866, 67.97 W, 2025 MHz, 6800 MHz, 2025 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:51:58.870, 162.86 W, 1650 MHz, 6800 MHz, 1650 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:52:00.876, 172.09 W, 1875 MHz, 6800 MHz, 1860 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:52:02.888, 171.44 W, 1935 MHz, 6800 MHz, 1935 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:52:04.892, 170.18 W, 1680 MHz, 6800 MHz, 1680 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:52:06.895, 121.06 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:52:08.899, 121.68 W, 1860 MHz, 6800 MHz, 1860 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:52:10.907, 171.69 W, 1860 MHz, 6800 MHz, 1860 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:52:12.911, 173.85 W, 1785 MHz, 6800 MHz, 1785 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:52:14.917, 173.86 W, 1695 MHz, 6800 MHz, 1695 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:52:16.921, 173.58 W, 1785 MHz, 6800 MHz, 1755 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:52:18.935, 62.70 W, 2010 MHz, 7000 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:52:20.940, 44.80 W, 315 MHz, 5000 MHz, 345 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:52:22.976, 33.92 W, 210 MHz, 810 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:52:25.008, 24.73 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:52:27.048, 22.33 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:52:29.085, 22.07 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:52:31.123, 65.64 W, 2025 MHz, 6800 MHz, 2025 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:52:33.127, 161.59 W, 1710 MHz, 6800 MHz, 1710 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:52:35.143, 170.80 W, 1695 MHz, 6800 MHz, 1695 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:52:37.146, 171.88 W, 1950 MHz, 6800 MHz, 1950 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:52:39.150, 170.13 W, 1770 MHz, 6800 MHz, 1770 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:52:41.155, 120.86 W, 2010 MHz, 6800 MHz, 2010 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:52:43.162, 122.11 W, 1860 MHz, 6800 MHz, 1860 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:52:45.168, 173.20 W, 1860 MHz, 6800 MHz, 1860 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:52:47.172, 173.73 W, 1860 MHz, 6800 MHz, 1860 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:52:49.176, 173.96 W, 1830 MHz, 6800 MHz, 1830 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:52:51.182, 173.55 W, 1800 MHz, 6800 MHz, 1800 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:52:53.190, 174.07 W, 1710 MHz, 6800 MHz, 1845 MHz, Not Active, Not Active, Active, Not Active
+2020/11/21 07:52:55.197, 115.06 W, 2010 MHz, 7000 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:52:57.204, 60.89 W, 2010 MHz, 7000 MHz, 2010 MHz, Not Active, Not Active, Not Active, Not Active
+2020/11/21 07:52:59.208, 26.27 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:53:01.245, 22.45 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:53:03.282, 22.38 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:53:05.319, 22.01 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:53:07.357, 22.11 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:53:09.395, 21.88 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:53:11.433, 21.58 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:53:13.471, 21.49 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:53:15.508, 21.28 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:53:17.546, 21.11 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:53:19.583, 21.15 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:53:21.621, 21.11 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:53:23.658, 21.45 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:53:25.694, 20.95 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:53:27.731, 21.06 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:53:29.769, 21.17 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:53:31.806, 20.35 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:53:33.843, 20.99 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:53:35.879, 20.79 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:53:37.916, 20.23 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:53:39.954, 20.47 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:53:41.991, 20.81 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:53:44.027, 20.84 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:53:46.063, 20.51 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:53:48.101, 20.70 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:53:50.139, 20.52 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:53:52.175, 20.59 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:53:54.212, 20.66 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:53:56.250, 20.66 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:53:58.286, 20.84 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:54:00.323, 20.69 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:54:02.362, 20.57 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:54:04.400, 20.58 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:54:06.436, 20.60 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:54:08.474, 20.71 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:54:10.511, 20.44 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:54:12.549, 20.56 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:54:14.586, 20.66 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:54:16.623, 20.45 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:54:18.661, 20.36 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:54:20.698, 20.52 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:54:22.735, 20.79 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:54:24.773, 20.61 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:54:26.810, 20.81 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:54:28.847, 20.87 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:54:30.885, 20.61 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:54:32.922, 20.71 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:54:34.959, 20.75 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:54:36.997, 20.93 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:54:39.034, 20.86 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:54:41.071, 20.72 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:54:43.109, 20.59 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:54:45.147, 20.56 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:54:47.183, 20.73 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:54:49.221, 21.02 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:54:51.258, 20.41 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:54:53.296, 20.80 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:54:55.338, 20.39 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:54:57.374, 20.37 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:54:59.413, 20.59 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:55:01.458, 20.60 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:55:03.495, 20.88 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:55:05.535, 20.70 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:55:07.571, 20.68 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:55:09.610, 20.73 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:55:11.647, 20.88 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:55:13.688, 20.66 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:55:15.726, 20.69 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:55:17.763, 20.64 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:55:19.800, 20.57 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:55:21.838, 20.72 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:55:23.876, 20.80 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:55:25.914, 20.86 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:55:27.951, 20.76 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:55:29.989, 20.75 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:55:32.026, 20.82 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:55:34.063, 20.73 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:55:36.101, 20.61 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:55:38.138, 20.43 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:55:40.175, 20.44 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:55:42.212, 20.55 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:55:44.250, 20.40 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:55:46.287, 20.42 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:55:48.325, 20.39 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:55:50.363, 20.38 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:55:52.400, 20.42 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:55:54.437, 20.50 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:55:56.474, 20.23 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:55:58.511, 20.38 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:56:00.549, 20.53 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:56:02.589, 20.55 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:56:04.627, 20.40 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:56:06.664, 20.44 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:56:08.702, 20.63 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:56:10.739, 20.58 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:56:12.778, 20.50 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:56:14.816, 20.49 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:56:16.854, 20.54 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:56:18.891, 20.47 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:56:20.928, 20.33 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:56:22.965, 20.51 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:56:25.002, 20.50 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:56:27.039, 20.50 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:56:29.077, 20.61 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:56:31.114, 20.64 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:56:33.151, 20.52 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:56:35.188, 20.52 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:56:37.225, 20.45 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:56:39.262, 20.43 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:56:41.301, 20.44 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:56:43.338, 20.56 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:56:45.375, 20.45 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:56:47.412, 20.59 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:56:49.449, 20.51 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:56:51.487, 20.52 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:56:53.524, 20.56 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:56:55.561, 20.27 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active
+2020/11/21 07:56:57.599, 20.68 W, 210 MHz, 405 MHz, 210 MHz, Active, Not Active, Not Active, Not Active

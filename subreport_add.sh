@@ -7,6 +7,7 @@ fi
 
 POWER_LIMIT=$2
 BATCHES_PER_RUN=$3
+ITERATIONS=$4
 
 # Based on the directory structure: 
 #
@@ -45,7 +46,7 @@ for param_dir in */; do
 	$(for model_dir in *; do
 		model="$(basename $model_dir)"
 		avg="$(awk '!/total/ && /images\/sec/ { s+=$3; c++ } END { print s/c }' `find $model_dir/throughput -type f`)"
-		echo "$(basename $param_dir) | $model | $POWER_LIMIT | $BATCHES_PER_RUN | $avg |"
+		echo "$(basename $param_dir) | $model | $POWER_LIMIT | $BATCHES_PER_RUN | $ITERATIONS | $avg |"
 	done)
 	EOF
 
